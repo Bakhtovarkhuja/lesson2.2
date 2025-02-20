@@ -2,5 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 .bg{
-    background-color: #263238;
+    background-image: url(/src/Frame.svg);
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
